@@ -74,7 +74,7 @@ Find Recycling Centers: Locate nearby recycling facilities using the interactive
 
 The classification model was trained using transfer learning with MobileNetV2 as the base model:
 
-Dataset: Garbage Classification Dataset from Kaggle
+Dataset: Garbage Classification Dataset from Kaggle (https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
 
 Classes: 12 waste categories
 
